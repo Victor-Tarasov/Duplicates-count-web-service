@@ -7,6 +7,7 @@
 	<servlet>
 		<servlet-name>counter</servlet-name>
 		<servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+		<!-- <secret value="YWRtaW4=" /> -->
 		<load-on-startup>1</load-on-startup>
 	</servlet>
 
